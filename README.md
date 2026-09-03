@@ -32,7 +32,7 @@ El paso a paso completo, con los errores típicos, está en
 Descarga el ZIP o clónala, y renombra la carpeta como quieras:
 
 ```bash
-git clone https://github.com/TU-USUARIO/claude-workspace-base.git mi-trabajo
+git clone https://github.com/rogelio-electronic/claude-workspace-base.git mi-trabajo
 ```
 
 **En la app de escritorio:** File → Open Folder, y eliges esa carpeta.
