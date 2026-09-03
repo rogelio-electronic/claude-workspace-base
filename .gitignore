@@ -1,0 +1,22 @@
+# Configuración local de la máquina (no se comparte)
+.claude/settings.local.json
+.claude/respaldos/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporales y entornos
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+*.tmp
+~$*
+
+# Descomenta si tu trabajo lleva datos que no deben salir de tu máquina:
+# datos/
+# clientes/
+# *.xlsx
